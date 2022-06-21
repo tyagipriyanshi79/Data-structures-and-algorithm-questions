@@ -1,0 +1,1 @@
+{"name":"Local: Rat-in-a-maze","url":"c:\\Users\\User\\Desktop\\c-cpp\\BackTracking\\Rat-in-a-maze.cpp","tests":[{"id":1655800288064,"input":"4\n1 0 1 1\n1 0 0 1\n1 1 0 1\n0 1 1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\User\\Desktop\\c-cpp\\BackTracking\\Rat-in-a-maze.cpp","group":"local","local":true}
